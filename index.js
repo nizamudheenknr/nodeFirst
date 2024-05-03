@@ -31,12 +31,14 @@
 // >>>>>>>>>><<<<<<<<<<<<>>>>>>>>>>><<<<<<<<<<<<<<<//
 
  
-const {logger,myName,my, Name} = require("./utils")
+const {logger,myName,my, Name,myNames} = require("./utils")
 
 
 console.log(logger());
 console.log(myName);
 console.log(Name);
 console.log(my());
+console.log(myNames);
+
 
  

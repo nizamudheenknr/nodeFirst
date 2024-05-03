@@ -7,12 +7,14 @@ const my = ()=>{
     return 3 * 5
 }
 const myName = "Hello world"
+const myNames = "Hello world nizam"
 
 module.exports = {
     logger,
     myName,
     my,
-    Name
+    Name,
+    myNames
 }
 
 
